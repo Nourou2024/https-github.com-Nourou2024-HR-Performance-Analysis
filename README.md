@@ -7,6 +7,6 @@ Statistiques descriptives : Moyenne, médiane, quartiles, écart-type, IQR
 Visualisation de données : Création d'histogrammes, boxplots et diagrammes en barres avec matplotlib et seaborn
 Détection des outliers : Identification des valeurs aberrantes avec la règle des 1.5 * IQR
 Interprétation des résultats : Analyse des tendances et facteurs influençant la performance des employés
-# Calculer les statistiques de la colonne spécifique (Absences) 
+
 
 
